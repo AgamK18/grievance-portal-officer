@@ -1,13 +1,9 @@
-import Landing from "./components/Landing";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import Profile from "./components/Profile";
-import Register from "./components/Register";
 import Track from "./components/Track";
 import All from "./components/All";
-import ProfileAdmin from "./components/admin/Profile";
-import TrackAdmin from "./components/admin/Track";
-import AllAdmin from "./components/admin/All";
+
 import {
   BrowserRouter as Router,
   Routes,
