@@ -37,12 +37,7 @@ To run the Grievance Portal locally, follow these steps:
 4. Start the backend server using nodemon index.js command in the server directory.
 5. Start the frontend server for the user using npm run start command in the client directory.
 6. Start the frontend server for the officer using npm run start command in the officer directory.
-7. Access the application in your web browser for the user at http://localhost:3000.
-8. Access the application in your web browser for the user at http://localhost:3002.
-
-## Login Details
-1. To login as a user, you need to register yourself first. If you need an existing account the credentials are id:"ak18",password:"123456"
-2. To login as an officer, only admin can create a new account.If you need an existing account the credentials are id:"ng18",password:"123456"
+7. Access the application in your web browser for the officer at http://localhost:3002.
 
 ## Contact Information
 For any inquiries or suggestions regarding the Grievance Portal, please contact the project contributors:
